@@ -1,12 +1,14 @@
 package ch6_integra;
 
+import aux.Function;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 class NewtonCoteTest {
     private int N = 10000000;
-    NewtonCote nc = new NewtonCote(0,10,N);
+    Function f = x -> x*x+5;
+    NewtonCote nc = new NewtonCote(f,0,10,N);
     @Test
     void usual2(){
 

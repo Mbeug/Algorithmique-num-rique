@@ -33,9 +33,14 @@ public class SimpleMatrix implements Matrix<Double> {
     }
     
     public void set(Double value, int i, int j) {
+        if (i >= m )    throw new IllegalArgumentException("i value is "+i+" must be lower than "+this.m);
+        if (i < 0)      throw new IllegalArgumentException("i value is negative");
+        if (j >= n)     throw new IllegalArgumentException("j value is "+j+" must be lower than "+this.n);
+        if (j < 0)      throw new IllegalArgumentException("j value is negatice");
         data[i][j] = value;
     }
     
     public int getWidth() { return this.n; }
     public int getHeight() { return this.m; }
+
 }

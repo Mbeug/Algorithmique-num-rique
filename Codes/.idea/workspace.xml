@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5df838cf-79b9-4857-924d-15c14786e0b3" name="Default" comment="" />
+    <list default="true" id="5df838cf-79b9-4857-924d-15c14786e0b3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Codes/aux/GameOfLife$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Codes/aux/GameOfLife.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Codes/aux/WindowGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Codes/ch7_eq_no_line/Bissection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Codes/ch7_eq_no_line/BissectionTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ch7_eq_no_line/Bissection.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/ch7_eq_no_line/BissectionTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/aux/Function.class" afterPath="$PROJECT_DIR$/out/production/Codes/aux/Function.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch2_matrix/SimpleMatrix.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch2_matrix/SimpleMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch2_matrix/Vector.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch2_matrix/Vector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch3_eq_lin/CholeskyFactorisation.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch3_eq_lin/CholeskyFactorisation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch3_eq_lin/GaussSeidel.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch3_eq_lin/GaussSeidel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch6_integra/NewtonCote.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch6_integra/NewtonCote.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Codes/ch8_diff/RichardsonExtrapolation.class" afterPath="$PROJECT_DIR$/out/production/Codes/ch8_diff/RichardsonExtrapolation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Codes/ch3/GaussSeidelTest.class" afterPath="$PROJECT_DIR$/out/test/Codes/ch3/GaussSeidelTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Codes/ch6_integra/NewtonCoteTest.class" afterPath="$PROJECT_DIR$/out/test/Codes/ch6_integra/NewtonCoteTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/aux/Function.java" afterPath="$PROJECT_DIR$/src/aux/Function.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch2_matrix/Matrix.java" afterPath="$PROJECT_DIR$/src/ch2_matrix/Matrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java" afterPath="$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch2_matrix/Vector.java" afterPath="$PROJECT_DIR$/src/ch2_matrix/Vector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java" afterPath="$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch3_eq_lin/GaussSeidel.java" afterPath="$PROJECT_DIR$/src/ch3_eq_lin/GaussSeidel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch6_integra/NewtonCote.java" afterPath="$PROJECT_DIR$/src/ch6_integra/NewtonCote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java" afterPath="$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ch8_diff/UnilateralDifferentiation.java" afterPath="$PROJECT_DIR$/src/ch8_diff/UnilateralDifferentiation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java" afterPath="$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java" afterPath="$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,61 +41,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Jacobi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/Jacobi.java">
+      <file leaf-file-name="RichardsonExtrapolation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RichardsonExtrapolationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ch8_diff/RichardsonExtrapolationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LagrangeInterpolation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch8_diff/LagrangeInterpolation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GaussSeidel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/GaussSeidel.java">
+      <file leaf-file-name="Lagrange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Lagrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GaussSeidelTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java">
+      <file leaf-file-name="Bisection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/Bisection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="165">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtendedMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch2_matrix/ExtendedMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Matrix.java">
+      <file leaf-file-name="BisectionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ch7_eq_no_line/BisectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValFunction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch1_numb/ValFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aux/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewtonCote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch6_integra/NewtonCote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewtonCoteTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -77,8 +159,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -86,10 +168,17 @@
     <findStrings>
       <find>int</find>
       <find>integral</find>
+      <find>%</find>
+      <find>somme</find>
     </findStrings>
     <replaceStrings>
       <replace>double</replace>
+      <replace>//</replace>
+      <replace>sum</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -99,10 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/aux/GameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/ch3/GaussSeidel.java" />
-        <option value="$PROJECT_DIR$/src/ch2/Utilities.java" />
-        <option value="$PROJECT_DIR$/src/ch1/OptimisationCompute.java" />
         <option value="$PROJECT_DIR$/src/ch2/Vector.java" />
         <option value="$PROJECT_DIR$/src/ch3_eq_lin/CholeskyDenauw.java" />
         <option value="$PROJECT_DIR$/src/ch3_eq_lin/EliminationGaussLegendre.java" />
@@ -111,11 +196,7 @@
         <option value="$PROJECT_DIR$/src/ch1_numb/OptimisationCompute.java" />
         <option value="$PROJECT_DIR$/src/ch1_numb/ValFunction.java" />
         <option value="$PROJECT_DIR$/src/ch2_matrix/ExtendedMatrix.java" />
-        <option value="$PROJECT_DIR$/src/ch2_matrix/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java" />
         <option value="$PROJECT_DIR$/src/ch2_matrix/Utilities.java" />
-        <option value="$PROJECT_DIR$/src/ch2_matrix/Vector.java" />
-        <option value="$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java" />
         <option value="$PROJECT_DIR$/src/ch3_eq_lin/LeastSquare.java" />
         <option value="$PROJECT_DIR$/src/ch4_interpol/Lagrange.java" />
         <option value="$PROJECT_DIR$/src/ch4_interpol/Coordinates.java" />
@@ -129,7 +210,6 @@
         <option value="$PROJECT_DIR$/src/ch7_eq_no_line/NewtonRaphson.java" />
         <option value="$PROJECT_DIR$/src/ch7_eq_no_line/Secant.java" />
         <option value="$PROJECT_DIR$/src/ch8_diff/LagrangeInterpolation.java" />
-        <option value="$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java" />
         <option value="$PROJECT_DIR$/src/ch8_diff/UnilateralDifferentiation.java" />
         <option value="$PROJECT_DIR$/src/ch9_ivp/HighOrder.java" />
         <option value="$PROJECT_DIR$/src/ch9_ivp/IVP.java" />
@@ -137,19 +217,28 @@
         <option value="$PROJECT_DIR$/src/ch9_ivp/Trapezoidal.java" />
         <option value="$PROJECT_DIR$/src/ch6_integra/RiemanWeb.java" />
         <option value="$PROJECT_DIR$/src/ch6_integra/Rieman.java" />
-        <option value="$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java" />
         <option value="$PROJECT_DIR$/tests/ch1/testKahan.java" />
         <option value="$PROJECT_DIR$/tests/ch3/GaussJordanTest.java" />
         <option value="$PROJECT_DIR$/src/ch6_integra/Riemann.java" />
         <option value="$PROJECT_DIR$/tests/ch6_integra/RiemannTest.java" />
-        <option value="$PROJECT_DIR$/src/aux/Function.java" />
-        <option value="$PROJECT_DIR$/tests/ch7_eq_no_line/BissectionTest.java" />
-        <option value="$PROJECT_DIR$/src/ch7_eq_no_line/Bissection.java" />
         <option value="$PROJECT_DIR$/src/ch7_eq_no_line/FixedPoint.java" />
-        <option value="$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java" />
-        <option value="$PROJECT_DIR$/src/ch6_integra/NewtonCote.java" />
         <option value="$PROJECT_DIR$/src/ch3_eq_lin/Jacobi.java" />
+        <option value="$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java" />
+        <option value="$PROJECT_DIR$/src/ch2_matrix/Vector.java" />
         <option value="$PROJECT_DIR$/src/ch3_eq_lin/GaussSeidel.java" />
+        <option value="$PROJECT_DIR$/src/ch2_matrix/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java" />
+        <option value="$PROJECT_DIR$/src/ch6_integra/NewtonCote.java" />
+        <option value="$PROJECT_DIR$/src/ch7_eq_no_line/Bissection.java" />
+        <option value="$PROJECT_DIR$/src/ch7_eq_no_line/Bisection.java" />
+        <option value="$PROJECT_DIR$/tests/ch7_eq_no_line/BissectionTest.java" />
+        <option value="$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java" />
+        <option value="$PROJECT_DIR$/src/aux/Function.java" />
+        <option value="$PROJECT_DIR$/tests/ch7_eq_no_line/BisectionTest.java" />
+        <option value="$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java" />
+        <option value="$PROJECT_DIR$/tests/ch3_eq_lin/CholeskyFactorisationTest.java" />
+        <option value="$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java" />
+        <option value="$PROJECT_DIR$/tests/ch8_diff/RichardsonExtrapolationTest.java" />
       </list>
     </option>
   </component>
@@ -163,6 +252,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -178,6 +268,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,86 +281,12 @@
             </path>
             <path>
               <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch1_numb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2_matrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3_eq_lin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch4_interpol" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6_integra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch7_eq_no_line" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch8_diff" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch9_ivp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="ch6_integra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Codes" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,9 +300,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch8_diff" />
+      <recent name="ch3_eq_lin" />
       <recent name="ch7_eq_no_line" />
       <recent name="ch6_integra" />
     </key>
@@ -302,8 +325,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GaussSeidelTest.usualCase">
-    <configuration name="BissectionTest.usual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RichardsonExtrapolationTest">
+    <configuration name="BisectionTest.usual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ch7_eq_no_line.*" />
@@ -314,7 +337,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="ch7_eq_no_line" />
-      <option name="MAIN_CLASS_NAME" value="ch7_eq_no_line.BissectionTest" />
+      <option name="MAIN_CLASS_NAME" value="ch7_eq_no_line.BisectionTest" />
       <option name="METHOD_NAME" value="usual" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -328,18 +351,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="GaussSeidelTest.usualCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CholeskyFactorisationTest.usualCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch3.*" />
+          <option name="PATTERN" value="ch3_eq_lin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ch3" />
-      <option name="MAIN_CLASS_NAME" value="ch3.GaussSeidelTest" />
+      <option name="PACKAGE_NAME" value="ch3_eq_lin" />
+      <option name="MAIN_CLASS_NAME" value="ch3_eq_lin.CholeskyFactorisationTest" />
       <option name="METHOD_NAME" value="usualCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -353,18 +376,43 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NewtonCoteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CholeskyFactorisationTest.youtubeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch6_integra.*" />
+          <option name="PATTERN" value="ch3_eq_lin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ch6_integra" />
-      <option name="MAIN_CLASS_NAME" value="ch6_integra.NewtonCoteTest" />
+      <option name="PACKAGE_NAME" value="ch3_eq_lin" />
+      <option name="MAIN_CLASS_NAME" value="ch3_eq_lin.CholeskyFactorisationTest" />
+      <option name="METHOD_NAME" value="youtubeCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RichardsonExtrapolationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ch8_diff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Codes" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ch8_diff" />
+      <option name="MAIN_CLASS_NAME" value="ch8_diff.RichardsonExtrapolationTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -378,44 +426,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="NewtonCoteTest.usual2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RichardsonExtrapolationTest.usualCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ch6_integra.*" />
+          <option name="PATTERN" value="ch8_diff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="Codes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ch6_integra" />
-      <option name="MAIN_CLASS_NAME" value="ch6_integra.NewtonCoteTest" />
-      <option name="METHOD_NAME" value="usual2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="NewtonCoteTest.usual3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ch6_integra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Codes" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ch6_integra" />
-      <option name="MAIN_CLASS_NAME" value="ch6_integra.NewtonCoteTest" />
-      <option name="METHOD_NAME" value="usual3" />
+      <option name="PACKAGE_NAME" value="ch8_diff" />
+      <option name="MAIN_CLASS_NAME" value="ch8_diff.RichardsonExtrapolationTest" />
+      <option name="METHOD_NAME" value="usualCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -511,19 +534,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest.usual2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest.usual3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.BissectionTest.usual" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GaussSeidelTest.usualCase" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BisectionTest.usual" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CholeskyFactorisationTest.usualCase" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CholeskyFactorisationTest.youtubeCase" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RichardsonExtrapolationTest.usualCase" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RichardsonExtrapolationTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GaussSeidelTest.usualCase" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest.usual2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NewtonCoteTest.usual3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.BissectionTest.usual" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RichardsonExtrapolationTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RichardsonExtrapolationTest.usualCase" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CholeskyFactorisationTest.usualCase" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CholeskyFactorisationTest.youtubeCase" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BisectionTest.usual" />
       </list>
     </recent_temporary>
   </component>
@@ -563,43 +586,49 @@
       <workItem from="1546528600731" duration="983000" />
       <workItem from="1546681257360" duration="3104000" />
       <workItem from="1546702489432" duration="10000" />
+      <workItem from="1546703018473" duration="7957000" />
+      <workItem from="1551358943885" duration="270000" />
+      <workItem from="1551374157490" duration="45000" />
+      <workItem from="1565428371587" duration="6290000" />
+      <workItem from="1565516184627" duration="2487000" />
+      <workItem from="1565534552079" duration="333000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GaussSeidelTest_usualCase - 2019.01.05 at 15h 11m 23s.xml">
-      <configuration name="GaussSeidelTest.usualCase" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_usualCase - 2019.08.10 at 15h 04m 23s.xml">
+      <configuration name="CholeskyFactorisationTest.usualCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GaussSeidelTest_usualCase - 2019.01.05 at 16h 21m 56s.xml">
-      <configuration name="GaussSeidelTest.usualCase" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_youtubeCase - 2019.08.10 at 14h 44m 23s.xml">
+      <configuration name="CholeskyFactorisationTest.youtubeCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GaussSeidelTest_usualCase - 2019.01.05 at 16h 23m 26s.xml">
-      <configuration name="GaussSeidelTest.usualCase" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_youtubeCase - 2019.08.10 at 14h 44m 55s.xml">
+      <configuration name="CholeskyFactorisationTest.youtubeCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GaussSeidelTest_usualCase - 2019.01.05 at 16h 24m 48s.xml">
-      <configuration name="GaussSeidelTest.usualCase" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_youtubeCase - 2019.08.10 at 14h 45m 58s.xml">
+      <configuration name="CholeskyFactorisationTest.youtubeCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GaussSeidelTest_usualCase - 2019.01.05 at 16h 27m 25s.xml">
-      <configuration name="GaussSeidelTest.usualCase" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_youtubeCase - 2019.08.10 at 14h 47m 01s.xml">
+      <configuration name="CholeskyFactorisationTest.youtubeCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewtonCoteTest_usual2 - 2018.12.29 at 09h 36m 15s.xml">
-      <configuration name="NewtonCoteTest.usual2" configurationId="JUnit" />
+    <history-entry file="CholeskyFactorisationTest_youtubeCase - 2019.08.10 at 14h 47m 40s.xml">
+      <configuration name="CholeskyFactorisationTest.youtubeCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewtonCoteTest_usual2 - 2018.12.29 at 09h 37m 17s.xml">
-      <configuration name="NewtonCoteTest.usual2" configurationId="JUnit" />
+    <history-entry file="RichardsonExtrapolationTest - 2019.08.11 at 12h 39m 04s.xml">
+      <configuration name="RichardsonExtrapolationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewtonCoteTest_usual2 - 2018.12.29 at 09h 37m 42s.xml">
-      <configuration name="NewtonCoteTest.usual2" configurationId="JUnit" />
+    <history-entry file="RichardsonExtrapolationTest_usualCase - 2019.08.11 at 12h 21m 43s.xml">
+      <configuration name="RichardsonExtrapolationTest.usualCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewtonCoteTest_usual3 - 2018.12.29 at 09h 27m 36s.xml">
-      <configuration name="NewtonCoteTest.usual3" configurationId="JUnit" />
+    <history-entry file="RichardsonExtrapolationTest_usualCase - 2019.08.11 at 12h 24m 39s.xml">
+      <configuration name="RichardsonExtrapolationTest.usualCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NewtonCoteTest_usual3 - 2018.12.29 at 09h 34m 25s.xml">
-      <configuration name="NewtonCoteTest.usual3" configurationId="JUnit" />
+    <history-entry file="RichardsonExtrapolationTest_usualCase - 2019.08.11 at 12h 38m 44s.xml">
+      <configuration name="RichardsonExtrapolationTest.usualCase" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68362000" />
+    <option name="totallyTimeSpent" value="85744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,7 +641,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -621,26 +649,26 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28594506" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -680,53 +708,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ch3/GaussJordan.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch2/Utilities.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch2/Matrix.java" />
     <entry file="file://$PROJECT_DIR$/src/ch1/OptimisationCompute.java" />
     <entry file="file://$PROJECT_DIR$/src/ch2/Vector.java" />
     <entry file="file://$PROJECT_DIR$/src/ch3/GaussSeidel.java" />
     <entry file="file://$PROJECT_DIR$/src/ch3/Jacobi.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch1_numb/Kahan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch1_numb/OptimisationCompute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch1_numb/ValFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Utilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/CholeskyDenauw.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -741,32 +731,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/EliminationGaussLegendre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aux/Coordinates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Lagrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Newton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -788,27 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8_diff/LagrangeInterpolation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch8_diff/UnilateralDifferentiation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -834,13 +781,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch6_integra/RiemanWeb.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch6_integra/Riemann.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/ch6_integra/RiemannTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -849,56 +789,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/FixedPoint.java" />
-    <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/Bissection.java">
+    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Vandermonde.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aux/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#107#108#0" expanded="false" />
-            <element signature="e#135#136#0" expanded="false" />
-            <element signature="e#168#169#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ch7_eq_no_line/BissectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch6_integra/NewtonCote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="39" lean-forward="false" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/LeastSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="-69">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -906,33 +800,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/NewtonRaphson.java">
+    <entry file="file://$PROJECT_DIR$/src/ch6_integra/Riemann.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch8_diff/UnilateralDifferentiation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/EliminationGaussLegendre.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/IVP.java">
+    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="345">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Vandermonde.java">
+    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Newton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -940,46 +850,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java">
+    <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/NewtonRaphson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-564">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/HighOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/aux/Case.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="300">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/Trapezoidal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Matrix.java">
+    <entry file="file://$PROJECT_DIR$/src/ch1_numb/Kahan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/Jacobi.java">
+    <entry file="file://$PROJECT_DIR$/src/ch1_numb/OptimisationCompute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -992,26 +892,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="39" column="15" lean-forward="false" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ch3/GaussSeidelTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="168">
+          <caret line="77" column="41" lean-forward="true" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/GaussSeidel.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/Jacobi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/LeastSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/IVP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/HighOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch2_matrix/SimpleMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch9_ivp/Trapezoidal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch6_integra/NewtonCote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ch6_integra/NewtonCoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aux/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch7_eq_no_line/Bisection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ch3_eq_lin/CholeskyFactorisationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch3_eq_lin/CholeskyFactorisation.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
-          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ch7_eq_no_line/BisectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch1_numb/ValFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch4_interpol/Lagrange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch8_diff/RichardsonExtrapolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ch8_diff/RichardsonExtrapolationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch8_diff/LagrangeInterpolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>

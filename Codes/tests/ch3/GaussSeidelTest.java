@@ -15,13 +15,17 @@ public class GaussSeidelTest {
         Matrix matrice = new SimpleMatrix(input);
         double[] bs = {-3,-1,4};
         GaussSeidel gs = new GaussSeidel();
-        Vector res = gs.process(matrice,bs);
-        affiche(res);
+        gs.process(matrice,bs);
     }
 
-    private void affiche(Vector res) {
-        for (int i = 0; i < res.getLength(); i++) {
-            System.out.println(res.get(i));
-        }
+    @Test
+    void case2(){
+        double[][] a={ {5,-1,2}, {3,8,-2}, {1,1,4} };
+        double[] b={12,-25,6};
+        GaussSeidel gs = new GaussSeidel();
+        gs.process(new SimpleMatrix(a),b);
     }
+    //0.9999784306640624  -2.9999822893066406  2.0000009646606447
+
+
 }

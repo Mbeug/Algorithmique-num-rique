@@ -22,6 +22,13 @@ public class Vector {
         this(vals.length, vals);
     }
 
+    public Vector(int width, double v) {
+        this(width);
+        for (int i = 0; i < data.length; i++) {
+            data[i]=v;
+        }
+    }
+
 
     public Double get(int i) {
         if (i<0 ) return 0.;

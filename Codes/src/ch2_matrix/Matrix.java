@@ -5,4 +5,5 @@ public interface Matrix<T> {
 	public void set(T value, int i, int j);
 	public int getWidth();
 	public int getHeight();
+
 }
