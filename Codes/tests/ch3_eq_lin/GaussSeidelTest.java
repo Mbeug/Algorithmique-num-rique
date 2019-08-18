@@ -1,4 +1,4 @@
-package ch3;
+package ch3_eq_lin;
 
 
 import ch2_matrix.Matrix;

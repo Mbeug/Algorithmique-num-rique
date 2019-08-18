@@ -1,8 +1,9 @@
 package ch4_interpol;
 
 import aux.Coordinates;
+import aux.Function;
 
-public class Lagrange {
+public class Lagrange implements Function{
 	private double X[];
 	private double Y[];
 	private int n;
@@ -32,6 +33,15 @@ public class Lagrange {
 	}
 	//f(x)= phi1*y1+phi2*y2...
 	public double f(double x) {
+		double f =0;
+		for (int i =0 ; i< Y.length;i++){
+			f+= Y[i]*computePhi(i,X,x);
+		}
+		return f;
+	}
+
+	@Override
+	public double eval(double x) {
 		double f =0;
 		for (int i =0 ; i< Y.length;i++){
 			f+= Y[i]*computePhi(i,X,x);

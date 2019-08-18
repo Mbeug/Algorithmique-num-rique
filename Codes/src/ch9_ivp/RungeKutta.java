@@ -1,14 +1,15 @@
 package ch9_ivp;
 
-public class RungeKutta {
+class RungeKutta {
 
-	private static double maxValue;
-	private static double h;
+	private  double maxValue;
+	private  double h;
 	
-	public RungeKutta(int h){
+	RungeKutta(double h, double maxValue){
 		this.h=h;
+		this.maxValue= maxValue;
 	}
-	public static double rungeKuttaMethod(double x , double f){
+	double rungeKuttaMethod(double x, double f){
 		double f_i = f;
 		double x_i = x;
 		for(double i =0 ; i<maxValue;i++){
@@ -21,12 +22,8 @@ public class RungeKutta {
 		}
 		return f_i;
 	}
-	private static double dFunction(double x, double f) {
+	private double dFunction(double x, double f) {
 		return x+Math.sqrt(f);
 	}
-	public static void main(String []args){
-		h = 0.000005;
-		maxValue = 2/h;
-		System.out.println(rungeKuttaMethod(1,2));
-	}
+
 }

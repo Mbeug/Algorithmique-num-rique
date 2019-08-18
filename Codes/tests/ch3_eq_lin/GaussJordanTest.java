@@ -1,4 +1,4 @@
-package ch3;
+package ch3_eq_lin;
 
 import ch3_eq_lin.GaussJordan;
 import org.junit.jupiter.api.Test;

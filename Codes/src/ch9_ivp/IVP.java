@@ -1,37 +1,30 @@
 package ch9_ivp;
 
+import aux.DFunction;
+
 public class IVP {
-	private static double maxValue;
+	private static final int MAXSTEPS =100;
 	private double h;
+	private DFunction df;
 	
-	public IVP(double h){
+	IVP(double h, DFunction df){
 		this.h=h;
+		this.df = df;
 	}
 	
-	public void fowardEuler(double x , double f,int cas){
-		double f_i = f;
+	double fowardEuler(double x, double initValue){
+		double f_i = initValue;
 		double x_i = x;
-		for(double i =0 ; i<maxValue;i++){
-			System.out.println(f_i);
-			f_i += h*dFuntion(x_i,f_i,cas);
+		for(int i =0 ; i < MAXSTEPS ;i++){
+			f_i += h*df.eval(x_i,f_i);
 			x_i+=h;
 		}
-		
+		return f_i;
 	}
 	
-	public void backwardEuler(double x,double f,int cas){
+	public void backwardEuler(double x,double f){
 		//TODO
 	}
-	private double dFuntion(double x, double f,int cas) {
-		switch(cas){
-		case 1: //pour exo 1
-			return 1+(x-f)*(x-f);
-		case 2://pour exo 2
-			return x+Math.sqrt(f);
-		default:
-			return 0;
-		}
-		
-	}
+
 	
 }
